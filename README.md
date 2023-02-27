@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @sug0eusk
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Discord.js, Python and im starting at Cybersecurity
-- 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me: · Discord: sug0#2556
+
